@@ -52,7 +52,8 @@ Default rates fell from 26.2% (2007) to a post-crisis low of 13.7% (2009) as und
 
 ## Dashboard
 
-Live dashboard: [link]
+<img width="1405" height="807" alt="Screenshot 2026-06-21 141549" src="https://github.com/user-attachments/assets/6cd849c9-8646-43b1-a321-daa3f1f695c6" /><img width="1397" height="816" alt="Screenshot 2026-06-21 141626" src="https://github.com/user-attachments/assets/ba6a7b9a-ba74-46a7-9384-91bbb9031e1b" />
+<img width="1393" height="810" alt="Screenshot 2026-06-21 141607" src="https://github.com/user-attachments/assets/969ab212-1e31-4146-9d0d-187589d73f22" />
 
 ## Files
 
